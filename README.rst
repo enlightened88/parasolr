@@ -24,6 +24,7 @@ configuration and indexing content.
    :alt: PyPI - Django Version
 
   .. image:: https://img.shields.io/pypi/l/parasolr.svg?color=blue
+   :target: https://github.com/Princeton-CDH/parasolr/blob/main/LICENSE
    :alt: PyPI - License
 
 * .. image:: https://travis-ci.org/Princeton-CDH/parasolr.svg?branch=main
